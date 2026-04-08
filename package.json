@@ -1,0 +1,13 @@
+{
+  "name": "quadratic-equation-solver",
+  "version": "1.0.0",
+  "description": "A Node.js module that solves quadratic equations",
+  "main": "solver.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "fast-check": "^3.0.0",
+    "jest": "^29.0.0"
+  }
+}

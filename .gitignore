@@ -1,0 +1,5 @@
+node_modules
+.kiro
+solver.test.key.js
+coverage
+*.tex
